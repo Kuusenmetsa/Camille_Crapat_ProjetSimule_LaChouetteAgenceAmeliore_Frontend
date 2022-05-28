@@ -42,14 +42,14 @@ Sophie vous invite dans une réunion pour préciser le périmètre de la mission
     </tr>
 </table>
 
-### Résultat Lighthouse
+### Résultat Lighthouse :
 
-- Rapport lighthouse : https://data.kappli.eu/Kappli_Camille_Crapat_ProjetOpenclassrooms_La-Chouette-Agence_amélioré/rapports/rapport
-- Rapport lighthouse détaillé : https://data.kappli.eu/Kappli_Camille_Crapat_ProjetOpenclassrooms_La-Chouette-Agence_amélioré/rapports/rapport_détaillé
+- Rapport lighthouse : https://data.kappli.eu/lachouetteagence/rapports/lachouetteagence_rapport_SEO_min.png
+- Rapport lighthouse détaillé : https://data.kappli.eu/lachouetteagence/rapports/lachouetteagence_rapport_SEO_détaillé.pdf
 
 ### Améliorations apportées (10 demandés) :
 
-10 amélioration était demandés par Openclassrooms, j'en ai effectué 13. D'autres améliorations restent à faire pour avoir un meilleur scrore </br>
+10 améliorations étaient demandées par Openclassrooms, j'en ai effectué 13. D'autres améliorations restent à faire pour avoir un meilleur score </br>
 
 <table>
     <tr>
@@ -84,7 +84,7 @@ Sophie vous invite dans une réunion pour préciser le périmètre de la mission
     </tr>
     <tr>
         <td>SEO</td>
-        <td>Lien non utile qui perturbe le réferencement</td>
+        <td>Lien non utile qui perturbe le référencement</td>
         <td>Supprimer les liens</td>
     </tr>
     <tr>
@@ -110,7 +110,7 @@ Sophie vous invite dans une réunion pour préciser le périmètre de la mission
     <tr>
         <td>Accessibilité</td>
         <td>Texte en image (impossible pour les logiciels pour malvoyant de lire le texte)</td>
-        <td>Mettre le texte dans des balises adaptés</td>
+        <td>Mettre le texte dans des balises adaptées</td>
     </tr>
     <tr>
         <td>Accessibilité</td>
@@ -126,15 +126,15 @@ Sophie vous invite dans une réunion pour préciser le périmètre de la mission
 
 ### Voir le site original : 
 
-- lien GitHub du code original : https://github.com/KappliApp/-Kappli_Camille_Crapat_ProjetOpenclassrooms_La-Chouette-Agence_Am-lior-
+- Lien GitHub du code original : https://github.com/KappliApp/Kappli_Camille_Crapat_ProjetOpenclassrooms_La-Chouette-Agence_Original 
 
 ### Stack utilisée :
 - HTML
 - CSS
 
-### Autres informations
+### Autres informations :
 - Voir le site d'origine : https://lachouetteagenceo.kappli.eu/
 - Voir le site avec les améliorations : https://lachouetteagence.kappli.eu/
-- Profil linkedin : https://www.linkedin.com/in/camille-crapat-399816214/
-- Portfolio : https://www.kappli.eu
-- Github : https://github.com/KappliApp/
+- Profil Linkedin : https://www.linkedin.com/in/camille-crapat-399816214/
+- Portfolio : https://kappli.eu
+- GitHub : https://github.com/KappliApp/
