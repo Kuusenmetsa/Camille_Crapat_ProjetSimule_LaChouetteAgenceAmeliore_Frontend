@@ -44,9 +44,8 @@ Sophie vous invite dans une réunion pour préciser le périmètre de la mission
 
 ### Résultat Lighthouse :
 
-- Rapport lighthouse : https://data.kappli.eu/lachouetteagence/rapports/lachouetteagence_rapport_SEO_min.png
-- Rapport lighthouse détaillé : https://data.kappli.eu/lachouetteagence/rapports/lachouetteagence_rapport_SEO_détaillé.pdf
-
+- Rapport lighthouse : https://data.kappli.eu/lachouetteagenceameliore/lachouetteagenceameliore_rapportTest.png
+- Rapport lighthouse détaillé : https://data.kappli.eu/lachouetteagenceameliore/lachouetteagenceameliore_rapportTestComplet.pdf
 ### Améliorations apportées (10 demandés) :
 
 10 améliorations étaient demandées par Openclassrooms, j'en ai effectué 13. D'autres améliorations restent à faire pour avoir un meilleur score </br>
@@ -131,10 +130,14 @@ Sophie vous invite dans une réunion pour préciser le périmètre de la mission
 ### Stack utilisée :
 - HTML
 - CSS
+- Git
+- GitHub
+- Linux
+- Terminal
 
 ### Autres informations :
-- Voir le site d'origine : https://lachouetteagenceo.kappli.eu/
-- Voir le site avec les améliorations : https://lachouetteagence.kappli.eu/
-- Profil Linkedin : https://www.linkedin.com/in/camille-crapat-399816214/
+- Voir le site d'origine : https://lachouetteagenceoriginal.kappli.eu/
+- Voir le site avec les améliorations : https://lachouetteagenceameliore.kappli.eu/
+- Profil Linkedin : https://www.linkedin.com/in/ccrapat/
 - Portfolio : https://kappli.eu
 - GitHub : https://github.com/KappliApp/
